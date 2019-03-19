@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ usage()
+comment0.text=Prints\ usage\ and\ terminates\ program
+comment1.params=msg
+comment1.target=void\ pperr(java.lang.String)
+comment1.text=Prints\ error\ message\ and\ terminates\ program
+comment2.params=a
+comment2.target=void\ testMain(long[])
+comment2.text=\ Method\ for\ testing\ a\ given\ array\ of\ long\ integers\ for\ debugging.\r\n\ \ @arg\ a\ the\ array\ of\ longs\ to\ be\ sorted.\r\n
+comment3.params=size
+comment3.target=void\ runMain(int)
+comment3.text=\ Method\ for\ testing\ an\ array\ of\ randomly\ generated\r\n\ \ long\ integers.\r\n\ \ @arg\ size\ the\ length\ of\ the\ array\ to\ be\ generated.\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
